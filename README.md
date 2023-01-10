@@ -10,6 +10,12 @@
 
 • Wikipedia
 
+
+### Contributors
+
+- Aubrey Crosetti
+- Ricardo
+
 ### Setup
 
 > Libraries needed:
